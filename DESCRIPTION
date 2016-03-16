@@ -1,0 +1,12 @@
+Package: FLEDA
+Title: Exploratory Data Analysis for FLR
+Version: 2.5.1
+Author: Ernesto Jardim & Manuela Azevedo
+Authors@R: c(
+  person("Ernesto", "Jardim", email = "ernesto.jardim@jrc.ec.europa.eu", role = "cre"),
+  person("Manuela", "Azevedo", email = "mazevedo@ipimar.pt", role = "aut"))
+Description: Develops several procedures to explore fisheries data through data tranformation and plotting. Based on lattice.
+Depends: FLCore(>= 2.5.0), methods
+Additional_Repositories: http://flr-project.org/R
+Maintainer: Ernesto Jardim <ernesto.jardim@jrc.ec.europa.eu>
+License: GPL-2
