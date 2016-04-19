@@ -1,20 +1,16 @@
-# .travis.yml for R projects.
-#
-# https://travis-ci.org/flr/FLCore
-
-warnings_are_errors: false
+# Simple .travis.yml for R projects.
 
 os:
   - linux
   - osx
 
-language: r
+language: R
+  
+sudo: required
 
 r:
   - release
   - devel
-
-sudo: false
 
 cache: packages
 
