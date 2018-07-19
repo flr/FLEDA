@@ -1,7 +1,7 @@
 # bmass
 
 ## class
-# Esta class está a estender a "list" via "FLQuants" mas não está a  
+# Esta class esta a estender a "list" via "FLQuants" mas nao esta a  
 # herdar os names da lista ...
 
 setClass("bmass", contains="FLQuants")

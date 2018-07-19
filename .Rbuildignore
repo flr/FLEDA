@@ -1,6 +1,7 @@
 .travis.yml
 gh-pages/
 man-roxygen/
-Makefile
+docs
+^Makefile$
 .git/
 ^appveyor\.yml$

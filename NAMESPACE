@@ -1,6 +1,8 @@
 importFrom("stats","cor","t.test")
 import("methods")
 import("FLCore")
+importFrom("grDevices", "gray")
+importFrom("stats", "as.formula")
 exportClasses("pay", 
 	"rpay", 
 	"nay",

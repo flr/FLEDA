@@ -1,10 +1,10 @@
 Package: FLEDA
 Title: Exploratory Data Analysis for FLR
-Version: 2.5.1
+Version: 2.5.2
 Authors@R: c(
-  person("Ernesto", "Jardim", email = "ernesto.jardim@jrc.ec.europa.eu", role = "cre"),
-  person("Manuela", "Azevedo", email = "mazevedo@ipimar.pt", role = "aut"))
+  person("Ernesto", "Jardim", email = "ernesto.jardim@jec.europa.eu", role = "cre"),
+  person("Manuela", "Azevedo", email = "mazevedo@ipma.pt", role = "aut"))
 Description: Develops several procedures to explore fisheries data through data tranformation and plotting. Based on lattice graphs.
 Depends: FLCore(>= 2.5.0), methods
-Additional_Repositories: http://flr-project.org/R
+Additional_repositories: http://flr-project.org/R
 License: GPL-2
